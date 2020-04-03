@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace TreViewNetCore.Models
 {
+    //This is class to use in the ViewModel
     public class TreeViewNode
     {
         public string id { get; set; }
